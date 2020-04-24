@@ -1,0 +1,22 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Chorizo Breakfast Burrito",
+      "category": "burrito",
+      "ethnicity": "mexican"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "category": "pizza",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti",
+      "category": "pasta",
+      "ethnicity": "italian"
+    }
+  ]
+}
